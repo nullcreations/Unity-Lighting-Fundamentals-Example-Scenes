@@ -1,0 +1,3363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 42.666668
+    width: 1280
+    height: 637.3334
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1280
+    height: 638
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1280
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 618
+    width: 1280
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 13}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1280
+    height: 588
+  m_MinSize: {x: 508, y: 498}
+  m_MaxSize: {x: 18008, y: 14048}
+  vertical: 0
+  controlID: 172
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 869
+    height: 588
+  m_MinSize: {x: 406, y: 498}
+  m_MaxSize: {x: 14006, y: 14048}
+  vertical: 1
+  controlID: 16
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 869
+    height: 314
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
+  vertical: 0
+  controlID: 17
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 449
+    height: 314
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 449
+    y: 0
+    width: 420
+    height: 314
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  - {fileID: 20}
+  - {fileID: 21}
+  - {fileID: 22}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 11}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 314
+    width: 869
+    height: 274
+  m_MinSize: {x: 336, y: 274}
+  m_MaxSize: {x: 14006, y: 10024}
+  vertical: 0
+  controlID: 108
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 566
+    height: 274
+  m_MinSize: {x: 232, y: 274}
+  m_MaxSize: {x: 10002, y: 10024}
+  m_ActualView: {fileID: 23}
+  m_Panes:
+  - {fileID: 23}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 566
+    y: 0
+    width: 303
+    height: 274
+  m_MinSize: {x: 104, y: 124}
+  m_MaxSize: {x: 4004, y: 4024}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 24}
+  - {fileID: 17}
+  - {fileID: 25}
+  m_Selected: 1
+  m_LastSelected: 1
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 14}
+  - {fileID: 15}
+  m_Position:
+    serializedVersion: 2
+    x: 869
+    y: 0
+    width: 411
+    height: 588
+  m_MinSize: {x: 102, y: 248}
+  m_MaxSize: {x: 4002, y: 8048}
+  vertical: 1
+  controlID: 173
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 411
+    height: 414
+  m_MinSize: {x: 102, y: 124}
+  m_MaxSize: {x: 4002, y: 4024}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 26}
+  - {fileID: 27}
+  - {fileID: 28}
+  - {fileID: 16}
+  m_Selected: 3
+  m_LastSelected: 0
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 414
+    width: 411
+    height: 174
+  m_MinSize: {x: 102, y: 124}
+  m_MaxSize: {x: 4002, y: 4024}
+  m_ActualView: {fileID: 29}
+  m_Panes:
+  - {fileID: 29}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 869.3334
+    y: 72.66667
+    width: 409
+    height: 394
+  m_PersistentViewDataDictionary: {fileID: 0}
+  progressMessageClearTime: -1
+  notificationClearTime: -1
+  timeSinceLastRotation: -1
+  currentBranchAndRemoteHasUpdate: 0
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
+  repositoryProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 0
+  changeTab: 3
+  activeTab: 3
+  initProjectView:
+    hasCompletedInitialCheck: 1
+    isUserDataPresent: 1
+    lastCheckUserChangedEvent:
+      updatedTimeString: 2020-06-14T15:38:35.355-05:00
+      cacheType: 8
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2020-06-14T15:42:28.263-05:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2020-06-14T15:42:28.183-05:00
+      cacheType: 1
+    currentBranch:
+      name: master
+      tracking: 
+    currentRemote:
+      name: origin
+      url: https://github.com/nullcreations/Unity-Illumination-Fundamentals-Example-Scenes
+      login: 
+      user: 
+      host: 
+      function: 0
+      token: 
+    localBranches:
+    - name: master
+      tracking: 
+    remoteBranches: []
+  changesView:
+    currentBranchHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[master]'
+    treeScroll: {x: 0, y: 0}
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+    gitStatusEntries: []
+    changedFilesText: No changed files
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2020-06-14T15:45:03.702-05:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2020-06-14T15:44:42.968-05:00
+      cacheType: 6
+    lastLocksChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      cacheType: 7
+  historyView:
+    currentLogHasUpdate: 0
+    currentTrackingStatusHasUpdate: 0
+    logEntries:
+    - commitID: 28565d38c1c6c763fe7de7f9e39984de86604869
+      mergeA: 
+      mergeB: 
+      authorName: nullcreations
+      authorEmail: nullgamedevs@gmail.com
+      commitEmail: nullgamedevs@gmail.com
+      commitName: nullcreations
+      summary: Initial commit
+      description: 
+      timeString: 2020-06-14T15:41:28.000-05:00
+      commitTimeString: 2020-06-14T15:41:28.000-05:00
+      changes:
+      - path: .gitattributes
+        fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: .gitignore
+        fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\.gitignore
+        fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    statusAhead: 0
+    lastLogChangedEvent:
+      updatedTimeString: 2020-06-14T15:43:58.133-05:00
+      cacheType: 3
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      cacheType: 5
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: 28565d38c1c6c763fe7de7f9e39984de86604869
+        mergeA: 
+        mergeB: 
+        authorName: nullcreations
+        authorEmail: nullgamedevs@gmail.com
+        commitEmail: nullgamedevs@gmail.com
+        commitName: nullcreations
+        summary: Initial commit
+        description: 
+        timeString: 2020-06-14T15:41:28.000-05:00
+        commitTimeString: 2020-06-14T15:41:28.000-05:00
+        changes:
+        - path: .gitattributes
+          fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: .gitignore
+          fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\.gitignore
+          fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      statusAhead: 0
+      selectedIndex: -1
+    selectedEntry:
+      commitID: 
+      mergeA: 
+      mergeB: 
+      authorName: 
+      authorEmail: 
+      commitEmail: 
+      commitName: 
+      summary: 
+      description: 
+      timeString: 0001-01-01T00:00:00.000+00:00
+      commitTimeString: 0001-01-01T00:00:00.000+00:00
+      changes: []
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: /
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes: []
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+    detailsScroll: {x: 0, y: 0}
+  settingsView:
+    gitPathView:
+      gitPath: C:\Users\null\AppData\Local\GitHubUnity\git\cmd\git.exe
+      gitLfsPath: C:\Users\null\AppData\Local\GitHubUnity\git-lfs\git-lfs.exe
+      errorMessage: 
+      resetToBundled: 0
+      resetToSystem: 0
+      changingManually: 0
+    hasRemote: 1
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2020-06-14T15:42:28.183-05:00
+      cacheType: 1
+    metricsEnabled: 0
+    newRepositoryRemoteUrl: https://github.com/nullcreations/Unity-Illumination-Fundamentals-Example-Scenes
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://github.com/nullcreations/Unity-Illumination-Fundamentals-Example-Scenes
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: nullcreations
+      gitEmail: nullgamedevs@gmail.com
+      newGitName: nullcreations
+      newGitEmail: nullgamedevs@gmail.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 2020-06-14T15:38:35.355-05:00
+        cacheType: 8
+    webTimeout: 3000
+    gitTimeout: 5000
+  locksView:
+    currentRemoteHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    keychainHasUpdate: 0
+    locksControl:
+      scroll: {x: 0, y: 0}
+      gitLockEntries: []
+      assets:
+        keys: []
+        values: []
+      gitStatusDictionary:
+        keys: []
+        values: []
+      selectedEntry:
+        gitLock:
+          id: 
+          path: 
+          owner:
+            name: 
+            email: 
+          lockedAtString: 
+        gitFileStatus: 0
+        lockedAt: 1 Jan 0001, 00:00
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2020-06-14T15:42:28.183-05:00
+      cacheType: 1
+    lastLocksChangedEvent:
+      updatedTimeString: 2020-06-14T15:43:07.643-05:00
+      cacheType: 7
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2020-06-14T15:43:06.727-05:00
+      cacheType: 6
+    lockedFiles: []
+    gitStatusEntries:
+    - path: Assets\LEEME.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\LEEME.meta
+      projectPath: Assets\LEEME.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\LEEME\Guia de Escenas.rtf
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\LEEME\Guia de
+        Escenas.rtf
+      projectPath: Assets\LEEME\Guia de Escenas.rtf
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\LEEME\Guia de Escenas.rtf.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\LEEME\Guia de
+        Escenas.rtf.meta
+      projectPath: Assets\LEEME\Guia de Escenas.rtf.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Blue_mat.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Blue_mat.mat
+      projectPath: Assets\Materials\Blue_mat.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Blue_mat.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Blue_mat.mat.meta
+      projectPath: Assets\Materials\Blue_mat.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Green_mat.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Green_mat.mat
+      projectPath: Assets\Materials\Green_mat.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Green_mat.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Green_mat.mat.meta
+      projectPath: Assets\Materials\Green_mat.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\NotEmissiveStandard_mat.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\NotEmissiveStandard_mat.mat
+      projectPath: Assets\Materials\NotEmissiveStandard_mat.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\NotEmissiveStandard_mat.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\NotEmissiveStandard_mat.mat.meta
+      projectPath: Assets\Materials\NotEmissiveStandard_mat.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Red_mat.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Red_mat.mat
+      projectPath: Assets\Materials\Red_mat.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Red_mat.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Red_mat.mat.meta
+      projectPath: Assets\Materials\Red_mat.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Skyboxes.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Skyboxes.meta
+      projectPath: Assets\Materials\Skyboxes.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Skyboxes\Sky000.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Skyboxes\Sky000.mat
+      projectPath: Assets\Materials\Skyboxes\Sky000.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Skyboxes\Sky000.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Skyboxes\Sky000.mat.meta
+      projectPath: Assets\Materials\Skyboxes\Sky000.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Temp_mat.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Temp_mat.mat
+      projectPath: Assets\Materials\Temp_mat.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Temp_mat.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Materials\Temp_mat.mat.meta
+      projectPath: Assets\Materials\Temp_mat.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\READ ME.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\READ ME.meta
+      projectPath: Assets\READ ME.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\READ ME\Scenes Guidance.rtf
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\READ ME\Scenes
+        Guidance.rtf
+      projectPath: Assets\READ ME\Scenes Guidance.rtf
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\READ ME\Scenes Guidance.rtf.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\READ ME\Scenes
+        Guidance.rtf.meta
+      projectPath: Assets\READ ME\Scenes Guidance.rtf.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting.unity
+      projectPath: Assets\Scenes\00_Default_Lighting.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting.unity.meta
+      projectPath: Assets\Scenes\00_Default_Lighting.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting_Sample.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting_Sample.meta
+      projectPath: Assets\Scenes\00_Default_Lighting_Sample.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting_Sample\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting_Sample\LightingData.asset
+      projectPath: Assets\Scenes\00_Default_Lighting_Sample\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting_Sample\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting_Sample\LightingData.asset.meta
+      projectPath: Assets\Scenes\00_Default_Lighting_Sample\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting_Sample\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting_Sample\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\00_Default_Lighting_Sample\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_Default_Lighting_Sample\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_Default_Lighting_Sample\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\00_Default_Lighting_Sample\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic).meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic).meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic).meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic).unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic).unity
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic).unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic).unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic).unity.meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic).unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic)\LightingData.asset
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic)\LightingData.asset.meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic)\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(AllDynamic)\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(AllDynamic)\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs).meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs).meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs).meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs).unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs).unity
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs).unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs).unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs).unity.meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs).unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\LightingData.asset
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\LightingData.asset.meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\00_RealTime_Lighting(wStaticObjs)\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten.unity
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten.unity.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\LightingData.asset
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\LightingData.asset.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Enlighten\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Enlighten\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Enlighten\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive.unity
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive.unity.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\LightingData.asset
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\LightingData.asset.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Progressive\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Progressive\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Progressive\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\01_Baked_Lightmapping_Sample.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\01_Baked_Lightmapping_Sample.meta
+      projectPath: Assets\Scenes\01_Baked_Lightmapping_Sample.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten.unity
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten.unity.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\LightingData.asset
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\LightingData.asset.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Enlighten\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Enlighten\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive.unity
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive.unity.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\LightingData.asset
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\LightingData.asset.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\02_Mixed_Lightmapping_Progressive\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\02_Mixed_Lightmapping_Progressive\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\02_Mixed_Lightmapping_Progressive\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1.meta
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\LightingData.asset
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\LightingData.asset.meta
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive
+        1\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive 1\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive.unity
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive.unity.meta
+      projectPath: Assets\Scenes\03_Mixed_Lightmapping_wLProbs_Progressive.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes.meta
+      projectPath: Assets\Scenes\Extra Scenes.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping.meta
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping.unity
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping.unity.meta
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\LightingData.asset
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\LightingData.asset.meta
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0X_BakedLightmapping\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\Extra Scenes\0X_BakedLightmapping\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).meta
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).unity
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).unity.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended).unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\LightingData.asset
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\LightingData.asset.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Y_MixedAndRealtime_GI_(Not Recommended)\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended).meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended).meta
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended).meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended).unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended).unity
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended).unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended).unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended).unity.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended).unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\LightingData.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\LightingData.asset
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\LightingData.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\LightingData.asset.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\LightingData.asset.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\LightingData.asset.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_dir.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\Lightmap-0_comp_dir.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_dir.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_light.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\Lightmap-0_comp_light.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_light.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\ReflectionProbe-0.exr
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\ReflectionProbe-0.exr
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\ReflectionProbe-0.exr.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scenes\Extra
+        Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not Recommended)\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\Extra Scenes\0Z_MixedAndRealtime_PointSpotArea_(Not
+        Recommended)\ReflectionProbe-0.exr.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scripts.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scripts\DirectionalLightController.cs
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scripts\DirectionalLightController.cs
+      projectPath: Assets\Scripts\DirectionalLightController.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scripts\DirectionalLightController.cs.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scripts\DirectionalLightController.cs.meta
+      projectPath: Assets\Scripts\DirectionalLightController.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scripts\SphereController.cs
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scripts\SphereController.cs
+      projectPath: Assets\Scripts\SphereController.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Scripts\SphereController.cs.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Scripts\SphereController.cs.meta
+      projectPath: Assets\Scripts\SphereController.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox.meta
+      projectPath: Assets\Starfield Skybox.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo.meta
+      projectPath: Assets\Starfield Skybox\Demo.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\DemoScene.unity
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\DemoScene.unity
+      projectPath: Assets\Starfield Skybox\Demo\DemoScene.unity
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\DemoScene.unity.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\DemoScene.unity.meta
+      projectPath: Assets\Starfield Skybox\Demo\DemoScene.unity.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Script.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Script.meta
+      projectPath: Assets\Starfield Skybox\Demo\Script.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Script\LookCamera.cs
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Script\LookCamera.cs
+      projectPath: Assets\Starfield Skybox\Demo\Script\LookCamera.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Script\LookCamera.cs.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Script\LookCamera.cs.meta
+      projectPath: Assets\Starfield Skybox\Demo\Script\LookCamera.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Back_Tex.png
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Back_Tex.png.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Down_Tex.png
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Down_Tex.png.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Front_Tex.png
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Front_Tex.png.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Left_Tex.png
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Left_Tex.png.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Right_Tex.png
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Right_Tex.png.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Up_Tex.png
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Demo\Textures\Up_Tex.png.meta
+      projectPath: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Skybox.mat
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Skybox.mat
+      projectPath: Assets\Starfield Skybox\Skybox.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Starfield Skybox\Skybox.mat.meta
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Assets\Starfield Skybox\Skybox.mat.meta
+      projectPath: Assets\Starfield Skybox\Skybox.mat.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Packages\manifest.json
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    currentUsername: nullcreations
+    unlockFileMenuContent:
+      m_Text: Release Lock
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+    forceUnlockFileMenuContent:
+      m_Text: Release Lock (forced)
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+  hasRemote: 1
+  currentRemoteName: origin
+  currentBranch: master
+  currentRemoteUrl: https://github.com/nullcreations/Unity-Illumination-Fundamentals-Example-Scenes
+  statusAhead: 0
+  statusBehind: 0
+  hasItemsToCommit: 0
+  isTrackingRemoteBranch: 0
+  currentBranchContent:
+    m_Text: master
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  currentRemoteUrlContent:
+    m_Text: https://github.com/nullcreations/Unity-Illumination-Fundamentals-Example-Scenes
+    m_Image: {fileID: 0}
+    m_Tooltip: Url of the origin remote
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2020-06-14T15:45:03.702-05:00
+    cacheType: 1
+  lastTrackingStatusChangedEvent:
+    updatedTimeString: 2020-06-14T15:45:38.203-05:00
+    cacheType: 5
+  lastStatusEntriesChangedEvent:
+    updatedTimeString: 2020-06-14T15:44:42.968-05:00
+    cacheType: 6
+  pullButtonContent:
+    m_Text: Pull
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  pushButtonContent:
+    m_Text: Push
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  refreshButtonContent:
+    m_Text: Refresh
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  fetchButtonContent:
+    m_Text: Fetch
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
+  connections: []
+  primaryConnectionUsername: nullcreations
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 566
+    y: 386.6667
+    width: 299
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -99.66667
+    m_HBaseRangeMax: 99.66667
+    m_VBaseRangeMin: -56
+    m_VBaseRangeMax: 56
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 299
+      height: 237
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 149.5, y: 118.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -149.5
+      y: -118.5
+      width: 299
+      height: 237
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 448.5, y: 381}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 72.66667
+    width: 447
+    height: 294
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: defbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 8}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 98ebe1f0f18368246880391c4a14e2da
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 449.33334
+    y: 72.66667
+    width: 416
+    height: 294
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_WindowGUID: 8c39cc4855b2a7a4c8e02fc97b49a853
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 0, y: 3, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 3, z: 0}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 0
+    showMaterialUpdate: 0
+    showSkybox: 0
+    showFlares: 0
+    showImageEffects: 0
+    showParticleSystems: 0
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+  m_Rotation:
+    m_Target: {x: -0.012027025, y: 0.5583715, z: -0.008099192, w: -0.8294644}
+    speed: 2
+    m_Value: {x: -0.012027025, y: 0.5583715, z: -0.008099192, w: -0.8294644}
+  m_Size:
+    m_Target: 22
+    speed: 2
+    m_Value: 22
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.0499822, y: 0.86589426, z: 0.08835792, w: 0.4898182}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 218
+    y: 72.66667
+    width: 647
+    height: 294
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 297
+    y: 73
+    width: 617
+    height: 334
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper: []
+    m_ValueSerializationHelper: []
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -526472451, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Timeline
+    m_Image: {fileID: 2263789160270303489, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 375.33334
+    y: 72.66667
+    width: 487
+    height: 287
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_Preferences:
+    frameSnap: 1
+    edgeSnaps: 1
+    muteAudioScrub: 1
+    playRangeLoopMode: 1
+    editType: 0
+    timeReferenceMode: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_SequenceHierarchy: {fileID: 0}
+  m_HierarchySplitterPerc: 0.16976935
+  m_SequencePath:
+    m_SelectionRoot: 0
+    m_SubElements: []
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 386.6667
+    width: 564
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: D:\CIBERTEC\TCVV Examples\TCVV_S03_Iluminacion
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 98260000
+    m_LastClickedID: 9880
+    m_ExpandedIDs: 00000000982600009228000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 11}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000009826000092280000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: e032000088300000862d00004830000098a60000a62d0000a82d000038380000903d00003a38fbff283000004a3000004c300000fe2d0000603300006c4500003e330000ac2b0000423400004a340000222c000098340000883400007e2b0000d62e00007a26000054300000566a00009c2c0000000000006e3100008c310000382c00002e2a000084660000de2a0000ba370000b81301006e320000d6310000e63000000a34000098390000462b0000762f00000a2d0000a6220000b02f0000a22f0000a82f00001e230000ea34000006260500aa390000bc3a0000d63a00005a3800009a3b00000a830000e83b0000b8790100ba490000867c0000527d0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 11}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 16
+  m_DirectoriesAreaWidth: 231
+--- !u!114 &24
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403
+    y: 434
+    width: 559
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 24}
+    newResultList:
+    - id: '[EjmsIluminacion][suite]'
+      name: EjmsIluminacion
+      fullName: EjmsIluminacion
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 03f200820b855c82733662837ec79d847b2ddb843d016486c299178739f80589849d278b1fc4fc9082689f91483af091f8485493e0a2c39314d72194d65b5d9593779596d2dfb296abad3098dc79f598a0532d99f3455f99d755eb9a08b3c59b61fd4c9d570f5e9f4486aa9f087f73a1550523a4dc358ca550ea2da7fa8807a9c02eb4aa00f1abacaac728afa98c99b08dce8cb30053e4b37514f6b30d9c06b4b02040b62bd75eb7393ef9b7b35368b9a81ca0baf54d60bca65a6fc046de4ac595de7cc7e6f2e6c7be7247c8e7fd75cba1e3eacc6baaffcd09bf69ce12dca4cefc79a8d051d7bcd12edcfcd2f588e1d3b72ffad719d8c0dab77f53dbd67c74dd8cc2dddd874cf7dfdfe016e1f79aebe485ae7ee5fd023ce841e2abe8c93871e9ccaaa7e90ffe71ebaa40bdeb076475ecb572f1ef1a69d9f031b176f1a49714f2d8cb3ff27dc2a1f3f1e915f444fbdaf5517ddff92f4f34fc02f385fdf81439005608a1006633cf006b8c3b02fd783503ad5f4603ed96d203d0730505c7ea1b0792f1f208fd19f908241bfc0bd11a160c280aa70c62be250e6edef30edd6e7d0fe827d40f71877510ae506313e3507513a56abd140374dd1769d05d1d24d9681df3ac451fe51d45212f60b52159080222342f3b223e1dcb251f02162a6324072b54547f2bb8ccc72b2b1cf92b0f64b22d765fe42da749ea2e8f31e9309fd77f33f610b8331507e534f2c1603517fe6e35e87d153693aa2236f3822c374cbaad3a75435c3e92cb913f1efbda3fbab7d54098d03f417373ca43d84349461cb29e487cfbdc4b469b654c2422115149983d54d82b68555b58d7586767d159d7931c5bb63c4f5c37a3ac5c2c27af5ecd2be45ed7fcb161882f1a64d8128965babaf965ca533168cda328692d783069ca5b6e6bd391e76bf779406d5958956e4e13496f125d19703a5f887134b61d73e3d293745b6ac97472fc9477200a0b7a3df2317af1e6987c7430637e98e5fc7fffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 1
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 24}
+    newResultList:
+    - id: '[VRTKv4BetaTest][suite]'
+      name: VRTKv4BetaTest
+      fullName: VRTKv4BetaTest
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &25
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animation
+    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 469
+    y: 427
+    width: 607
+    height: 261
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 71660
+--- !u!114 &26
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 869.3334
+    y: 72.66667
+    width: 409
+    height: 394
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 239
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &27
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12070, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 260, y: 216}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Profiler
+    m_Image: {fileID: 248956144125838126, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 869.3334
+    y: 72.66667
+    width: 409
+    height: 394
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_VertSplit:
+    ID: 237
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes: bd000000bd000000
+    relativeSizes:
+    - 0.5
+    - 0.5
+    minSizes: 6400000064000000
+    maxSizes: 0000000000000000
+    lastTotalSize: 378
+    splitSize: 6
+    xOffset: 0
+  m_Recording: 1
+  m_ActiveNativePlatformSupportModule: 
+  m_ViewType: 0
+  m_CurrentArea: 0
+  m_ShowInactiveDSPChains: 0
+  m_HighlightAudibleDSPChains: 1
+  m_DSPGraphZoomFactor: 1
+  m_CPUFrameDataHierarchyView:
+    m_CpuProfilerOptions: 1
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 03000000
+      m_LastClickedID: 3
+      m_ExpandedIDs: 0e000000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_MultiColumnHeaderState:
+      m_Columns:
+      - width: 200
+        sortedAscending: 1
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      - width: 25
+        sortedAscending: 0
+      m_VisibleColumns: 0000000001000000020000000300000004000000050000000600000007000000
+      m_SortedColumns: 05000000
+    m_DetailedViewType: 0
+    m_DetailedViewSpliterState:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 0000000000000000
+      relativeSizes:
+      - 0.7
+      - 0.3
+      minSizes: c201000032000000
+      maxSizes: 0000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+    m_DetailedObjectsView:
+      m_TreeViewState:
+        scrollPos: {x: 0, y: 0}
+        m_SelectedIDs: 
+        m_LastClickedID: 0
+        m_ExpandedIDs: 
+        m_RenameOverlay:
+          m_UserAcceptedRename: 0
+          m_Name: 
+          m_OriginalName: 
+          m_EditFieldRect:
+            serializedVersion: 2
+            x: 0
+            y: 0
+            width: 0
+            height: 0
+          m_UserData: 0
+          m_IsWaitingForDelay: 0
+          m_IsRenaming: 0
+          m_OriginalEventType: 11
+          m_IsRenamingFilename: 0
+          m_ClientGUIView: {fileID: 0}
+        m_SearchString: 
+      m_MultiColumnHeaderState:
+        m_Columns: []
+        m_VisibleColumns: 
+        m_SortedColumns: 
+      m_VertSplit:
+        ID: 0
+        splitterInitialOffset: 0
+        currentActiveSplitter: 0
+        realSizes: 
+        relativeSizes: []
+        minSizes: 
+        maxSizes: 
+        lastTotalSize: 0
+        splitSize: 0
+        xOffset: 0
+    m_DetailedCallsView:
+      m_VertSplit:
+        ID: 0
+        splitterInitialOffset: 0
+        currentActiveSplitter: 0
+        realSizes: 
+        relativeSizes: []
+        minSizes: 
+        maxSizes: 
+        lastTotalSize: 0
+        splitSize: 0
+        xOffset: 0
+      m_CalleesTreeView:
+        m_ViewState:
+          scrollPos: {x: 0, y: 0}
+          m_SelectedIDs: 
+          m_LastClickedID: 0
+          m_ExpandedIDs: 
+          m_RenameOverlay:
+            m_UserAcceptedRename: 0
+            m_Name: 
+            m_OriginalName: 
+            m_EditFieldRect:
+              serializedVersion: 2
+              x: 0
+              y: 0
+              width: 0
+              height: 0
+            m_UserData: 0
+            m_IsWaitingForDelay: 0
+            m_IsRenaming: 0
+            m_OriginalEventType: 11
+            m_IsRenamingFilename: 0
+            m_ClientGUIView: {fileID: 0}
+          m_SearchString: 
+        m_ViewHeaderState:
+          m_Columns: []
+          m_VisibleColumns: 
+          m_SortedColumns: 
+      m_CallersTreeView:
+        m_ViewState:
+          scrollPos: {x: 0, y: 0}
+          m_SelectedIDs: 
+          m_LastClickedID: 0
+          m_ExpandedIDs: 
+          m_RenameOverlay:
+            m_UserAcceptedRename: 0
+            m_Name: 
+            m_OriginalName: 
+            m_EditFieldRect:
+              serializedVersion: 2
+              x: 0
+              y: 0
+              width: 0
+              height: 0
+            m_UserData: 0
+            m_IsWaitingForDelay: 0
+            m_IsRenaming: 0
+            m_OriginalEventType: 11
+            m_IsRenamingFilename: 0
+            m_ClientGUIView: {fileID: 0}
+          m_SearchString: 
+        m_ViewHeaderState:
+          m_Columns: []
+          m_VisibleColumns: 
+          m_SortedColumns: 
+  m_GPUFrameDataHierarchyView:
+    m_CpuProfilerOptions: 1
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_MultiColumnHeaderState:
+      m_Columns:
+      - width: 200
+        sortedAscending: 1
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      - width: 80
+        sortedAscending: 0
+      m_VisibleColumns: 00000000010000000200000003000000
+      m_SortedColumns: 03000000
+    m_DetailedViewType: 0
+    m_DetailedViewSpliterState:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 0000000000000000
+      relativeSizes:
+      - 0.7
+      - 0.3
+      minSizes: c201000032000000
+      maxSizes: 0000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+    m_DetailedObjectsView:
+      m_TreeViewState:
+        scrollPos: {x: 0, y: 0}
+        m_SelectedIDs: 
+        m_LastClickedID: 0
+        m_ExpandedIDs: 
+        m_RenameOverlay:
+          m_UserAcceptedRename: 0
+          m_Name: 
+          m_OriginalName: 
+          m_EditFieldRect:
+            serializedVersion: 2
+            x: 0
+            y: 0
+            width: 0
+            height: 0
+          m_UserData: 0
+          m_IsWaitingForDelay: 0
+          m_IsRenaming: 0
+          m_OriginalEventType: 11
+          m_IsRenamingFilename: 0
+          m_ClientGUIView: {fileID: 0}
+        m_SearchString: 
+      m_MultiColumnHeaderState:
+        m_Columns: []
+        m_VisibleColumns: 
+        m_SortedColumns: 
+      m_VertSplit:
+        ID: 0
+        splitterInitialOffset: 0
+        currentActiveSplitter: 0
+        realSizes: 
+        relativeSizes: []
+        minSizes: 
+        maxSizes: 
+        lastTotalSize: 0
+        splitSize: 0
+        xOffset: 0
+    m_DetailedCallsView:
+      m_VertSplit:
+        ID: 0
+        splitterInitialOffset: 0
+        currentActiveSplitter: 0
+        realSizes: 
+        relativeSizes: []
+        minSizes: 
+        maxSizes: 
+        lastTotalSize: 0
+        splitSize: 0
+        xOffset: 0
+      m_CalleesTreeView:
+        m_ViewState:
+          scrollPos: {x: 0, y: 0}
+          m_SelectedIDs: 
+          m_LastClickedID: 0
+          m_ExpandedIDs: 
+          m_RenameOverlay:
+            m_UserAcceptedRename: 0
+            m_Name: 
+            m_OriginalName: 
+            m_EditFieldRect:
+              serializedVersion: 2
+              x: 0
+              y: 0
+              width: 0
+              height: 0
+            m_UserData: 0
+            m_IsWaitingForDelay: 0
+            m_IsRenaming: 0
+            m_OriginalEventType: 11
+            m_IsRenamingFilename: 0
+            m_ClientGUIView: {fileID: 0}
+          m_SearchString: 
+        m_ViewHeaderState:
+          m_Columns: []
+          m_VisibleColumns: 
+          m_SortedColumns: 
+      m_CallersTreeView:
+        m_ViewState:
+          scrollPos: {x: 0, y: 0}
+          m_SelectedIDs: 
+          m_LastClickedID: 0
+          m_ExpandedIDs: 
+          m_RenameOverlay:
+            m_UserAcceptedRename: 0
+            m_Name: 
+            m_OriginalName: 
+            m_EditFieldRect:
+              serializedVersion: 2
+              x: 0
+              y: 0
+              width: 0
+              height: 0
+            m_UserData: 0
+            m_IsWaitingForDelay: 0
+            m_IsRenaming: 0
+            m_OriginalEventType: 11
+            m_IsRenamingFilename: 0
+            m_ClientGUIView: {fileID: 0}
+          m_SearchString: 
+        m_ViewHeaderState:
+          m_Columns: []
+          m_VisibleColumns: 
+          m_SortedColumns: 
+  m_ClearOnPlay: 0
+--- !u!114 &28
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 390, y: 390}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Lighting
+    m_Image: {fileID: 8394858894532624064, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 869.3334
+    y: 72.66667
+    width: 409
+    height: 394
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &29
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 869.3334
+    y: 486.6667
+    width: 409
+    height: 154
+  m_PersistentViewDataDictionary: {fileID: 0}

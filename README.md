@@ -25,7 +25,7 @@ __ES__
 "00_Default_Lighting" tiene sus Lighting Settings inalterados para corresponder con los Unity settings por defecto y no hay ningún objeto marcado como Lightmap Static. La Directional Light en la escena está marcada como RealTime.
 
 
-## RealTime Lighting (All Dynamic)
+## Real Time Lighting (All Dynamic)
 
 ![00_RealTime_Lighting(AllDynamic)](https://drive.google.com/uc?export=view&id=1GvrpJ54Bg4nVYBE5Z2tInF0OSL2Gj4kE)
 
@@ -38,7 +38,7 @@ __ES__
 "00_RealTime_Lighting(AllDynamic)" tiene sus Lighting Settings marcados como RealTimeLighting únicamente y no tiene objetos marcados como Lightmap Static. La Directional Light en la escena está marcada como RealTime.
 
 
-## RealTime Lighting (with Static Objects)
+## Real Time Lighting (with Static Objects)
 
 ![00_RealTime_Lighting(wStaticObjs)](https://drive.google.com/uc?export=view&id=12kVbgamI9_e_Bd4_jR4mE03mTLRMoKNF)
 
@@ -98,7 +98,7 @@ __ES__
 
 "02_Mixed_Lightmapping_Progressive" tiene sus Lighting Settings marcados como MixedLighting únicamente y todos los objetos bajo el parent "Static Objects" marcado como Lightmap Static. La Directional Light en la escena está marcada como Mixed. Así mismo, Baked Lightmaps fueron generados para los objetos estáticos. El Progressive lightmapper fue utilizado para esta escena. Stitch Seams fueron usados en la Static Sphere. Notese que Dynamic Sphere es ahora afectado por Directional light y proyecta y recibe sombras.
 
-## 03 Mixed Lightmapping with Light Probs Progressive
+## Mixed Lightmapping with Light Probs Progressive
 
 ![03_Mixed_Lightmapping_wLProbs_Progressive](https://drive.google.com/uc?export=view&id=18w-K3KoY3ACH7BJlUwKTL0Dp-aU0yJcF)
 

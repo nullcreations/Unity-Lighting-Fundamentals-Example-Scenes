@@ -1,4 +1,4 @@
-# Unity Illumination Fundamentals Example Scenes
+# Unity Lighting Fundamentals Example Scenes
 
 __EN__
 
